@@ -8,3 +8,4 @@ console.log(x+y);
 }
 
 console.log(add(a,b))
+console.log(true)
