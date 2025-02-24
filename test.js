@@ -1,11 +1,7 @@
-let a = 23
-let b = 22
-
-console.log(a+b)
-
-function add(x, y){
-console.log(x+y);
+// write a function to add two numbers
+function add(a, b){
+    return console.log(a,b)
 }
 
-console.log(add(a,b))
-console.log(true)
+// invoke the created function with some integers
+add(21, 10);
