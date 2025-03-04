@@ -5,3 +5,8 @@ function add(a, b){
 
 // invoke the created function with some integers
 add(21, 10);
+
+const a = (x,y)=>{
+    return x+y;
+}
+a(2, 5);
